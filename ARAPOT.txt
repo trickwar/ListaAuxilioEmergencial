@@ -1,0 +1,1282 @@
+CIDADE: "ARAPOTI", CPF : "***.780.489-**", NOME : ADAO BRAZ DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.926.239-**", NOME : ADAO MARIO CORREA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.778.789-**", NOME : ADEMILTON BRASIL DE ARGOLO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.649.409-**", NOME : ADEMIR CARNEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.520.039-**", NOME : ADENILSON JOSE MOREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.910.159-**", NOME : ADILSON APARECIDO PIRES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.625.379-**", NOME : ADILSON LARA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.335.149-**", NOME : ADRIAN SCHWINN MAZURCKEVITZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.220.989-**", NOME : ADRIANA GOMES FERREIRA DOS SANTOS , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.197.269-**", NOME : ADRIANE CONCEICAO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.426.809-**", NOME : ADRIANE GRZIEBELUCKA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.014.099-**", NOME : ADRIANE MARIA GRAMINHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.217.189-**", NOME : ADRIANE SIQUEIRA CARNEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.728.189-**", NOME : ADRIANO AMBROSIO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.981.779-**", NOME : ADRIANO SALVADOR , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.322.009-**", NOME : AGDALYS APARECIDA PROENCA LOPES , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.663.889-**", NOME : AGRIPINA DE ALMEIDA ALVAREZ , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.203.019-**", NOME : ALCINO DE JESUS DE MATOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.081.019-**", NOME : ALESANDRO ALVES CAMPOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.059.929-**", NOME : ALESSANDRA DANIELE DE JESUS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.511.219-**", NOME : ALESSANDRA DE OLIVEIRA LEITAO GUAITA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.934.289-**", NOME : ALEX PAULO DE MELO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.981.789-**", NOME : ALEX SANDRO GASPAR , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.412.709-**", NOME : ALEXANDRE BRAZ ALVES SIQUEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.618.899-**", NOME : ALINE APARECIDA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.574.819-**", NOME : ALINE KECHE JEREMIAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.237.419-**", NOME : ALINE SOFIA PENNA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.670.689-**", NOME : ALTAIR MENDES ANNUNCIATO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.610.039-**", NOME : ALTEMIR MOREIRA TRINDADE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.488.009-**", NOME : ALVARO CELIO BARONI FILHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.745.959-**", NOME : AMANDA APARECIDA DOS SANTOS , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.726.179-**", NOME : AMANDA PRISCILA DEDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.417.999-**", NOME : AMAURI DE LIMA BEGES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.145.489-**", NOME : ANA CAROLINA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.183.279-**", NOME : ANA LUCIA APARECIDA ARAUJO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.658.159-**", NOME : ANA PAULA BUENO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.868.249-**", NOME : ANA PAULA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.840.239-**", NOME : ANDERSON BATISTA LOPES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.915.619-**", NOME : ANDERSON JR PRESTES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.777.939-**", NOME : ANDERSON LUIZ DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.487.679-**", NOME : ANDRE SCHOLZE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.665.529-**", NOME : ANDREA CYNARA BRIZOLA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.625.078-**", NOME : ANDREIA DE JORGE DE COL , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.282.599-**", NOME : ANDREIA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.629.139-**", NOME : ANDREIA DOS SANTOS DE SOUZA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.868.259-**", NOME : ANDREIA SCHMEISKE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.343.339-**", NOME : ANDRESSA BRONOSKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.267.209-**", NOME : ANELIZE TEIXEIRA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.542.289-**", NOME : ANGELA GOMES DE OLIVEIRA LEONARDO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.079.659-**", NOME : ANNE CAROLINE SOARES CORREA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.155.139-**", NOME : ANTONIA PEREIRA DE CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.323.159-**", NOME : ANTONIO ALEXANDRE DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.245.348-**", NOME : ANTONIO ANTUNES FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.645.309-**", NOME : ANTONIO CLOVIS DA LUZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.964.789-**", NOME : ANTONIO MARCOS MIRANDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.188.979-**", NOME : ANTONY RUAN ARAUJO PINTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.821.309-**", NOME : APARECIDA SOARES DE ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.706.439-**", NOME : APARECIDO XAVIER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.631.349-**", NOME : AQUEMY SALTO PEREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.543.169-**", NOME : ARACI DE FATIMA ALVES CAMPOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.123.879-**", NOME : ARCINDO MONTEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.909.429-**", NOME : ARIETE APARECIDA PIETROSKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.819.659-**", NOME : ARNALDO DE PAULA SIMOES JUNIOR , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.325.319-**", NOME : ARSENIO ALVES DE CARVALHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.624.689-**", NOME : AUDAIR BATISTA BISCAIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.102.429-**", NOME : AYARITSA EDUARDA PACHE DE ANDRADE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.286.479-**", NOME : BEATRIZ SOARES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.793.389-**", NOME : BENVINDA DE FATIMA CARNEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.216.689-**", NOME : BRENDA ARYADNE CABELIN NEVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.566.379-**", NOME : BRENDHA ALVES DE OLIVEIRA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.365.829-**", NOME : BRUNA FERREIRA RAMOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.539.539-**", NOME : BRUNA GABRIELA ORTIZ VICENTE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.102.569-**", NOME : BRUNA LETICIA DA SILVA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.759.269-**", NOME : BRUNA MATOS DELCOL ALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.424.569-**", NOME : BRUNO APARECIDO DE JESUS DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.772.749-**", NOME : BRUNO DAL DEGAN DE CARVALHO MILLER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.596.339-**", NOME : BRUNO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.344.859-**", NOME : CAIO EMANOEL MONTEIRO JULIAN , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.300.509-**", NOME : CARLA ROBERTA LEME MULLER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.906.509-**", NOME : CARLOS APARECIDO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.454.769-**", NOME : CARLOS CAETANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.895.069-**", NOME : CARLOS FERNANDO PEDROSO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.535.289-**", NOME : CARLOS ROBERTO DE FREITAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.644.389-**", NOME : CAROLINA DORIGON BANTLE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.175.959-**", NOME : CASSIANO ELOI DE MATTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.946.488-**", NOME : CECILIA APARECIDA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.684.249-**", NOME : CECILIA KIUTEKA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.883.359-**", NOME : CELIA DE GOUVEIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.467.378-**", NOME : CELINA ALVES DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.366.849-**", NOME : CELMA APARECIDA MARCONDES MONTEJANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.834.269-**", NOME : CELSO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.914.329-**", NOME : CHRISLAINE SANTOS BATISTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.042.999-**", NOME : CHRISTIAN FERNANDO FREITAS DE ARAUJO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.493.549-**", NOME : CLAIR PASSOS DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.686.119-**", NOME : CLARICE APARECIDA PENA FRANDINI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.213.669-**", NOME : CLARICE DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.493.719-**", NOME : CLAUDEMIR RAMOS DO NASCIMENTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.689.749-**", NOME : CLAUDETE DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.517.649-**", NOME : CLAUDINEI LOPES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.042.909-**", NOME : CLAUDINEIA APARECIDA MARTINS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.018.969-**", NOME : CLEIDE MARY RAYZEL TESSER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.772.559-**", NOME : CLEITON CRISTIANO CAMPOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.180.109-**", NOME : CLEUSA MAINARDES LEITE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.872.119-**", NOME : CLISLAINE DOS SANTOS OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.571.509-**", NOME : CRISTIANE APARECIDA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.495.839-**", NOME : CRISTIANE MARIA CORREA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.396.799-**", NOME : CRYSTOFER FERREIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.510.579-**", NOME : DAIANE APARECIDA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.026.789-**", NOME : DAIANE APARECIDA TELES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.906.999-**", NOME : DAIANE DE OLIVEIRA FAUSTINO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.672.459-**", NOME : DAIANE PIRES , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.384.328-**", NOME : DANIAL AL IBRAHEM , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.364.089-**", NOME : DANIEL MARTINS TEIXEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.129.989-**", NOME : DANIELA BARBOSA SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.591.639-**", NOME : DANIELA CRISTINA LOURENCO DE PAULA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.548.919-**", NOME : DANIELE DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.286.835-**", NOME : DANIELE DOS SANTOS MORAES OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.590.619-**", NOME : DARA TABATA MOISSA D OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.534.439-**", NOME : DARICO TOMAZ DE MIRANDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.084.779-**", NOME : DEBORAH PEDROZA DE ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.022.919-**", NOME : DEIVI PRESTES DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.502.299-**", NOME : DEVANDIR GREGORIO DO NASCIMENTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.916.579-**", NOME : DIANA LUIZA DE MOURA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.049.609-**", NOME : DIEGO EURIDES MULLER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.776.069-**", NOME : DILCINEA FERREIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.475.199-**", NOME : DIOGO DIAS ANTUNES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.852.579-**", NOME : DIONE ARAUJO DA CRUZ GRAMINHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.134.969-**", NOME : DIRCEU GONCALVES DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.292.299-**", NOME : DIRCEU SOARES DE CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.920.639-**", NOME : DIVA VIEIRA BISCAIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.037.869-**", NOME : DORIVAL PENA JUNIOR , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.523.469-**", NOME : DORYS ROSANGELA PEDROZO DA LUZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.594.999-**", NOME : DOUGLAS BARBOSA FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.272.479-**", NOME : DULCINEIA MOENTACK , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.261.069-**", NOME : EDIANA APARECIDA ALEXANDRE GOUVEIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.563.379-**", NOME : EDICLEIA APARECIDA TEIXEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.563.169-**", NOME : EDILAINE CRISTINA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.924.149-**", NOME : EDILSON ALMEIDA PONTES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.199.369-**", NOME : EDILSON BARBOSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.701.299-**", NOME : EDILVANE MARIA GRAMINHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.841.199-**", NOME : EDIMARA PEDROSO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.264.059-**", NOME : EDINA APARECIDA CORREA MENDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.263.149-**", NOME : EDISON LUIZ FARIA PENTEADO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.936.659-**", NOME : EDIVANDRO OLIVEIRA DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.127.229-**", NOME : EDIVANE PAULA MARTINS DA SILVA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.568.949-**", NOME : EDNA MARA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.971.349-**", NOME : EDSON BARROS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.576.789-**", NOME : EDSON LUIZ ALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.058.689-**", NOME : EDUARDA DE OLIVEIRA COTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.599.099-**", NOME : ELAINE APARECIDA  LEMES  DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.647.769-**", NOME : ELAINE CRISTINA DA SILVA PORTATE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.341.099-**", NOME : ELAINE CRISTINA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.517.839-**", NOME : ELIANE ALVES PEDROSO DA LUZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.767.059-**", NOME : ELIANE APARECIDA DA SILVA ARRUDA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.229.109-**", NOME : ELIANE APARECIDA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.117.959-**", NOME : ELIANE APARECIDA DOS SANTOS FREITAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.293.099-**", NOME : ELIANE DE LIMA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.877.189-**", NOME : ELIANE PIETROWSKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.572.589-**", NOME : ELISIANE MOREIRA PROENCA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.194.059-**", NOME : ELITON RODRIGUES DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.966.888-**", NOME : ELIZABETH FERREIRA DE ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.133.829-**", NOME : ELIZELE CAROLINY DE MATOS HRUBA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.161.599-**", NOME : ELIZIANE APARECIDA BENTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.638.719-**", NOME : ELOINA APARECIDA ORTIZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.904.089-**", NOME : ELOIR LOPES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.263.029-**", NOME : ELOISE LARA DE OLIVEIRA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.571.648-**", NOME : ELSO JOSE DE GOUVEIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.285.199-**", NOME : EMANUELLE OLIVEIRA DE QUEIROZ , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.167.569-**", NOME : EMERSON FERNANDES CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.085.239-**", NOME : EMILENE FIGUEIREDO FUZINATTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.899.369-**", NOME : EMILY DE ALVARENGA CLARO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.215.369-**", NOME : ENIO JESUS SOUZA PAIVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.573.459-**", NOME : ENIO JOAO GRZYBOWSKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.928.189-**", NOME : ENZO MULLER CHEIRUBIM , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.488.549-**", NOME : ESADORA BETHANIA DOS SANTOS PENNA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.509.989-**", NOME : EUNICE APARECIDA DE CARVALHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.293.739-**", NOME : EUNICE OLIVEIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.652.219-**", NOME : EVA VANDERLIZE  GOUVEIA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.623.839-**", NOME : EVANDERLEI MONTEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.303.718-**", NOME : EVANDRO CARLOS BATISTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.361.569-**", NOME : EVANDRO PONTES DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.942.139-**", NOME : EVANDRO SETTI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.068.349-**", NOME : EVELYN NAYARA DE OLIVEIRA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.659.969-**", NOME : EVERALDO DA SILVA PALHANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.555.959-**", NOME : EVERSON FERNANDES CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.273.919-**", NOME : EZEQUIEL JESUS DE ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.699.479-**", NOME : FABIANE LORRAREN DE CAMPOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.049.919-**", NOME : FABIANO ALVES CAMPOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.127.529-**", NOME : FABIANO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.058.469-**", NOME : FABIANO JONAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.587.939-**", NOME : FABIO  CAMARGO MENDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.668.119-**", NOME : FABIO DE ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.080.928-**", NOME : FABIO DE SOUZA FREITAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.909.119-**", NOME : FABIO FERREIRA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.895.559-**", NOME : FABIO JUNIOR MARCONDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.026.769-**", NOME : FABIO SOARES DE MELO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.627.609-**", NOME : FATIMA LOURDES GOUVEA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.592.469-**", NOME : FAUSTA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.826.239-**", NOME : FELIPE EDUARDO FILLUS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.716.999-**", NOME : FELIPE EMANOEL NUNES BATISTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.170.159-**", NOME : FELIPE RODRIGUES DA LUZ MARTINS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.905.939-**", NOME : FERNANDA APARECIDA DE MELO REIS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.673.189-**", NOME : FERNANDA DE MOURA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.267.139-**", NOME : FERNANDA OLIVEIRA DA SILVA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.202.739-**", NOME : FRANCIANE APARECIDA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.573.999-**", NOME : FRANCIANE LOPES NOBRE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.480.249-**", NOME : FRANCIANNE BELLO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.942.209-**", NOME : FRANCIELLY DE ALMEIDA DE GROOT , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.191.663-**", NOME : FRANCISCO KLEBER MARTINS TORRES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.279.109-**", NOME : FREDERICO MULLER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.965.599-**", NOME : GABRIEL DA LUZ SIQUEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.480.539-**", NOME : GABRIEL VENTURA RODRIGUES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.630.069-**", NOME : GABRIELA GIMENES , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.357.559-**", NOME : GABRIELLY SOARES TELES , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.511.759-**", NOME : GEDIELSON BUENO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.343.469-**", NOME : GEISSI CRISTINA ARAUJO CORDEIRO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.753.069-**", NOME : GEMIMA MARIANO DE MORAES DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.693.059-**", NOME : GENILVA MATTOCHESKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.989.939-**", NOME : GENTIL FRANCISCO ROSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.537.909-**", NOME : GESSI CARLOS DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.918.729-**", NOME : GEZIELLE APARECIDA DE BARROS HERMES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.314.389-**", NOME : GILBERTO APARECIDO PENA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.332.598-**", NOME : GILMAR DOS SANTOS COSTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.927.419-**", NOME : GILMAR JOSE DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.074.729-**", NOME : GILMAR SOUSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.267.658-**", NOME : GILSON APARECIDO MARTINS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.218.379-**", NOME : GIOVANE SEBASTIAO MATOS PORFIRIO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.734.589-**", NOME : GRAZIELI TEREZINHA DE CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.110.819-**", NOME : GUILHERME HENRIQUE DE MELO LOPES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.172.689-**", NOME : GUSTAVO BISCAIA PEREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.004.919-**", NOME : GUSTAVO HENRIQUE PINTO QUEIROZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.125.089-**", NOME : HALIARA MARTINS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.417.029-**", NOME : HAMILTON SOUZA GOULART , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.111.859-**", NOME : HELOISA FERREIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.030.019-**", NOME : HERCULIS CARNEIRO PAIANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.594.839-**", NOME : HERNANDES DE MELLO ROCHA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.309.599-**", NOME : IDILA RODRIGUES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.904.249-**", NOME : IGOR APARECIDO DOMINGUES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.554.769-**", NOME : ILDA FERREIRA DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.436.228-**", NOME : ILMA ADRIANA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.395.479-**", NOME : INGREDY ISCALATI DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.504.319-**", NOME : INGRIDI GRAZIELE DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.769.509-**", NOME : IRANI SANTOS DE CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.623.179-**", NOME : IRENE MACIEL DE MELLO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.574.659-**", NOME : ISABEL BATISTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.203.939-**", NOME : ISABEL DE JESUS ABREU , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.078.479-**", NOME : ISABELI KARINI LOPES SKORA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.202.059-**", NOME : ISAIAS PEREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.498.499-**", NOME : IVAN CARCALHO DE PAIVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.023.279-**", NOME : IVETE RODRIGUES ANDRADE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.897.739-**", NOME : IVO DE JESUS MAIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.675.139-**", NOME : IVONE APARECIDA ORTIZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.143.409-**", NOME : IZABELLE MAYZA DE MEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.468.829-**", NOME : IZAIR FONTANA NETO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.256.559-**", NOME : JACIRA APARECIDA OLIVEIRA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.954.348-**", NOME : JAMIL DIAS DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.457.099-**", NOME : JANAINA APARECIDA DA FONSECA BATISTA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.630.079-**", NOME : JANICE APARECIDA BARONI BARBOSA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.686.179-**", NOME : JANICE DA SILVA JURASKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.035.009-**", NOME : JAQUE CHAIANE DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.830.179-**", NOME : JAQUELINE APARECIDA DE QUADROS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.222.669-**", NOME : JAQUELINE APARECIDA GRUBER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.069.909-**", NOME : JAQUELINE LUCIANA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.678.749-**", NOME : JATNIEL FERREIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.772.929-**", NOME : JEAN CARLOS DE SOUZA BORBA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.888.379-**", NOME : JEAN RODRIGO KECHE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.332.419-**", NOME : JEFERSON DA SILVA SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.953.719-**", NOME : JEFFERSON ALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.408.159-**", NOME : JENIFER DOS SANTOS DE ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.940.299-**", NOME : JENIFFER DOS SANTOS DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.953.899-**", NOME : JESSICA ELIANE COSTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.813.839-**", NOME : JESSICA MAINARDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.576.389-**", NOME : JOANA APARECIDA VALERIO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.166.469-**", NOME : JOANA DARC SARDINHA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.683.779-**", NOME : JOAO BATISTA SCHAMPEUS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.903.029-**", NOME : JOAO BATISTA SILVA FARIAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.778.419-**", NOME : JOAO CARLOS MEIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.741.158-**", NOME : JOAO DE JESUS CHIMIDT , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.505.939-**", NOME : JOAO INOCENCIO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.186.279-**", NOME : JOAO MARCOS IRINEU DOS ANJOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.339.639-**", NOME : JOAO PINTO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.795.879-**", NOME : JOAO RONALDO FRANDINI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.644.909-**", NOME : JOAO VALDIR JEREMIAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.480.609-**", NOME : JOAO VICTOR LEME CASADO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.899.929-**", NOME : JOBERT GOMES DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.811.979-**", NOME : JOCELAINE PEREIRA LOPES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.386.919-**", NOME : JOCIMAR CHERNER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.728.189-**", NOME : JOEL ANDRADE DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.754.758-**", NOME : JOEL BERNARDO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.834.349-**", NOME : JOEL RIBEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.490.529-**", NOME : JOELMA MARIA ANUNCIACAO DE CARVALHO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.536.899-**", NOME : JOHNN LENON RIBEIRO GALDINO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.952.479-**", NOME : JOHNNY WILLIAM BUENO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.050.389-**", NOME : JOICE MARA LIMA DE PAULA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.257.699-**", NOME : JORANDINA BERNARDO ARAUJO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.116.389-**", NOME : JORGE BATISTA DE MELO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.440.559-**", NOME : JOSE ALVES MAZURKEVICZ , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.106.839-**", NOME : JOSE ANDRE MONTEJANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.327.369-**", NOME : JOSE APARECIDO CORREA PINTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.888.819-**", NOME : JOSE APARECIDO DA CRUZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.446.309-**", NOME : JOSE BARROS ESTEVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.945.809-**", NOME : JOSE CARLOS DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.707.769-**", NOME : JOSE DE BARROS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.823.859-**", NOME : JOSE DIVINO LEITE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.812.069-**", NOME : JOSE HENRIQUE PANICHEK , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.937.799-**", NOME : JOSE MALAQUIAS DA SILVA NETO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.973.909-**", NOME : JOSE PEDRO ALVES BUENO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.947.899-**", NOME : JOSE TIAGO DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.521.389-**", NOME : JOSE VALTER PAVAN , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.323.169-**", NOME : JOSELIA BATISTA CORDEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.424.229-**", NOME : JOSENI TEIXEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.932.079-**", NOME : JOSUE FERREIRA DA SILVA FILHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.762.629-**", NOME : JOSUEL DOS SANTOS  ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.062.419-**", NOME : JOUVANI INOCNCIO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.176.079-**", NOME : JUCELENE MARIA LIMA DE PAULA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.312.309-**", NOME : JUCIMAR BIANCHIN , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.033.239-**", NOME : JUCIMARA CIOMPELA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.060.859-**", NOME : JULIANA DE PAULA FRANDINI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.111.739-**", NOME : JULIANA LOPES DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.698.719-**", NOME : JULIANA ROBERTA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.509.139-**", NOME : JULIANE APARECIDA NETO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.936.069-**", NOME : JULIANO APARECIDO DE CARVALHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.938.199-**", NOME : JULIO CESAR AMARO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.458.289-**", NOME : JULIO CESAR CORDEIRO BORBA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.186.299-**", NOME : JULIO DO CARMO DE MELO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.482.109-**", NOME : JURANDIR DOS SANTOS COUTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.763.469-**", NOME : JUVENAL IRINEU DOS ANJOS NETO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.052.089-**", NOME : KALITA DE OLIVEIRA SARRIBAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.173.409-**", NOME : KARIANE KARINE DE ANDRADE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.586.819-**", NOME : KARINA EGIDIO NUNES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.056.539-**", NOME : KAROLINE NOGUEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.381.649-**", NOME : KATIA DE OLIVEIRA SARRIBAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.811.999-**", NOME : KAYKE BATISTA VENTURA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.508.819-**", NOME : KELVYN GORESKI MOMETTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.227.509-**", NOME : KETLYN SABRINA PEREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.353.029-**", NOME : KRISLAINE CARNEIRO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.481.109-**", NOME : LAIS FERNANDA FERREIRA LIMA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.927.269-**", NOME : LARISSA RODRIGUES DA SILVA ABREU , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.729.479-**", NOME : LAUANE MARA MAIA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.290.989-**", NOME : LAUDAIR PIRES DA LUZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.195.998-**", NOME : LAUREN BELEI GIMENES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.462.089-**", NOME : LAURI DE JESUS SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.276.669-**", NOME : LEANDRA DA COSTA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.800.989-**", NOME : LEANDRO BARONI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.568.399-**", NOME : LEANDRO JOSE DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.951.296-**", NOME : LEOCADIA SELATCHEK , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.955.349-**", NOME : LEONARDO HENRIQUE DOS SANTOS OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.149.789-**", NOME : LEONARDO MATOS FELIPE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.023.439-**", NOME : LEONICE APARECIDA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.609.929-**", NOME : LETICIA DE OLIVEIRA BIANCHI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.282.339-**", NOME : LETICIA FARES MACHADO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.969.399-**", NOME : LEVI SANTOS RODRIGUES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.979.429-**", NOME : LINDALVA DA SILVA FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.441.789-**", NOME : LOURENIL MACAN , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.724.709-**", NOME : LUANA DO ROCIO DE GOUVEIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.781.569-**", NOME : LUCAS DA SILVA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.248.919-**", NOME : LUCAS EDUARDO DINIZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.846.479-**", NOME : LUCAS FERREIRA DE CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.258.649-**", NOME : LUCAS LARES CORDEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.322.839-**", NOME : LUCAS LOURENCO DE PAULA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.673.869-**", NOME : LUCAS PODGURSKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.457.819-**", NOME : LUCAS SANTOS DE JESUS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.943.269-**", NOME : LUCAS SUZUKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.742.209-**", NOME : LUCELIA MARIA ROSA GOULART , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.576.979-**", NOME : LUCIA TZASKOS LEVANDOVSKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.832.919-**", NOME : LUCIANA CORDEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.866.579-**", NOME : LUCIANE APARECIDA MOREIRA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.110.629-**", NOME : LUCIANE DE FATIMA REIS DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.322.889-**", NOME : LUCIANO DOS SANTOS FARIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.849.319-**", NOME : LUCIANO FERREIRA DE MELO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.857.059-**", NOME : LUCIMARA ALVES CORDEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.098.589-**", NOME : LUCIMARA FONSECA DE ARAUJO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.254.189-**", NOME : LUCINEA APARECIDA DE OLIVEIRA BARONI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.908.749-**", NOME : LUCINEIA GONCALVES , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.528.899-**", NOME : LUCIVANE FATIMA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.874.369-**", NOME : LUDMILA VASCONCELLOS GAMBARTI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.817.679-**", NOME : LUIS EDUARDO DA SILVA DE SOUSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.810.479-**", NOME : LUIS FELIPE DA SILVA FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.948.909-**", NOME : LUIS TARCISIO FERREIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.664.129-**", NOME : LUIZ ANTONIO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.634.009-**", NOME : LUIZ AUGUSTO PENA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.454.399-**", NOME : LUIZ CARLOS DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.405.739-**", NOME : LUIZ CARLOS FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.368.889-**", NOME : LUIZ CLAUDINO MIGUEL , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.713.839-**", NOME : LUIZ GABRIEL BRAZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.121.679-**", NOME : LUIZ GUILHERME FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.299.569-**", NOME : LUIZ GUSTAVO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.575.689-**", NOME : LUIZ MANOEL EUGENIO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.626.389-**", NOME : LUPERCINDA LOPES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.965.219-**", NOME : LUZIA VIEIRA GUIMARAES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.206.399-**", NOME : MADALENA APARECIDA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.577.859-**", NOME : MADALLEN SALES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.480.829-**", NOME : MARCELO RODRIGUES PINTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.914.699-**", NOME : MARCIA DOS SANTOS HOLM , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.867.759-**", NOME : MARCIA INOCENCIA DE OLIVEIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.685.609-**", NOME : MARCIO DOS SANTOS CASADO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.722.049-**", NOME : MARCIO JOSE STEFANIACK , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.785.149-**", NOME : MARCO AURELIO DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.696.519-**", NOME : MARCOS ANTONIO ORTIZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.944.409-**", NOME : MARCOS APARECIDO DE JESUS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.272.059-**", NOME : MARCOS PAULO CORREA HANNESCH , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.945.749-**", NOME : MARCOS SOARES MACIEL , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.655.729-**", NOME : MARIA ALICE BARBOSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.225.059-**", NOME : MARIA ALICE DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.142.899-**", NOME : MARIA APARECIDA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.741.219-**", NOME : MARIA APARECIDA DE JESUS SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.835.209-**", NOME : MARIA BRONOSKI SARDINHA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.576.509-**", NOME : MARIA CAROLINA SOARES DE GOUVEA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.993.759-**", NOME : MARIA CRISTINA SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.150.099-**", NOME : MARIA DE FATIMA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.493.979-**", NOME : MARIA DE JESUS LEMES DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.767.679-**", NOME : MARIA DE LOURDES GABRIEL FERREIRA LOPES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.644.379-**", NOME : MARIA DE LURDES DORIGON BANTLE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.144.139-**", NOME : MARIA DO CARMO DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.276.138-**", NOME : MARIA EDICLEIA RIBEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.656.849-**", NOME : MARIA EDUARDA MATTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.930.788-**", NOME : MARIA EMILIANE OLIVEIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.094.009-**", NOME : MARIA GESSI SANTOS DE MATOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.029.678-**", NOME : MARIA ILISIANE DA COSTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.733.129-**", NOME : MARIA ISABAEL DE FREITAS SILVA BARBOSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.433.829-**", NOME : MARIA JOANA FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.799.969-**", NOME : MARIA LETICIA SOARES MACHADO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.214.349-**", NOME : MARIA LUCIA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.242.829-**", NOME : MARIA LUCIELE DA COSTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.302.499-**", NOME : MARIA NELI CORREA PAULA FOGACA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.443.419-**", NOME : MARIA QUITERIA CORREA SILVA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.607.029-**", NOME : MARIA ROSELI MACHADO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.619.509-**", NOME : MARIA SANTA DE JESUS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.263.039-**", NOME : MARIA TEREZA OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.999.549-**", NOME : MARIA VITORIA ARAUJO DE SOUSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.703.889-**", NOME : MARIA VITORIA CORREA EGEA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.122.249-**", NOME : MARIA VITORIA DECOL BARBOSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.143.149-**", NOME : MARIA VITORIA GAMBARIM , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.716.409-**", NOME : MARIANA FERREIRA DO NASCIMENTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.948.419-**", NOME : MARIANA MARIA E SILVA GONCALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.042.709-**", NOME : MARILEI SILVA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.524.829-**", NOME : MARILENE OLIVEIRA DOS SANTOS FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.267.129-**", NOME : MARILETE DORIGON BANTLE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.586.329-**", NOME : MARILZA CORDEIRO CHAVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.646.159-**", NOME : MARINA SUTIL DE OLIVEIRA MENDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.132.969-**", NOME : MARISA SOARES DE MELO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.525.169-**", NOME : MARISETE FERNANDES DA SILVA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.515.228-**", NOME : MARLENE DE MEIRA FAQUETI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.112.239-**", NOME : MARLENE DO CARMO TAVARES DA CONCEICAO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.397.118-**", NOME : MARLI ANTUNES BISPO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.665.029-**", NOME : MARTA DA LUZ DA SILVA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.946.599-**", NOME : MATEUS PAULUK RAMOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.095.849-**", NOME : MATHEUS DE GOVEIA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.355.509-**", NOME : MATILDE PEDROSO RIBEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.161.409-**", NOME : MAURICIO MARTINS DA COSTA PASSOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.953.929-**", NOME : MAYARA BRUNA DE JESUS MAIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.984.209-**", NOME : MAYARA LEITE POSSATTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.230.429-**", NOME : MAYCON DA SILVA PIRES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.267.809-**", NOME : MAYCON HENRIQUE  MEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.648.359-**", NOME : MAYK GABRIEL DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.652.849-**", NOME : MELANIE JANINE KOK , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.737.649-**", NOME : MELISSA AKEMI ABE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.445.619-**", NOME : MESSIAS BARBARINI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.013.129-**", NOME : MICHELI DALDEGAN MACIEL , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.855.539-**", NOME : MICHELLE SANTOS DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.648.179-**", NOME : MILENA GABRIELE DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.960.419-**", NOME : MIRIAM MEDEIROS MACHADO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.623.449-**", NOME : MIRIAN VIANA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.462.329-**", NOME : NADIR RIBEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.666.749-**", NOME : NAIARA DE FATIMA MATOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.832.899-**", NOME : NATHALY HEYNI ACACIO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.014.039-**", NOME : NELCI DAS GRACAS MENDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.859.399-**", NOME : NELCI DECOL , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.178.909-**", NOME : NEOMAR JUNIOR DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.471.919-**", NOME : NEUZA MARIA PORFIRI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.316.659-**", NOME : NICOLY RAISSA DA SILVA FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.972.229-**", NOME : NILCEIA APARECIDA DE CARVALHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.052.239-**", NOME : NILTON CEZAR DA ROSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.207.449-**", NOME : NILZEIA GONCALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.494.599-**", NOME : NOIR ANTONIO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.783.079-**", NOME : ODAIR JOSE MATIAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.028.839-**", NOME : ODILA DE FATIMA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.873.669-**", NOME : ORELIO MOURA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.526.289-**", NOME : OSCAR ADRIANO DE FREITAS SILVA BARBOSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.393.319-**", NOME : OSNI BELLO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.776.689-**", NOME : OTAVIO MIGUEL VALERIO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.379.259-**", NOME : PABLO AUGUSTO CLAUDINO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.365.289-**", NOME : PALOMA DE SOUZA VAN LEEUWEN , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.759.059-**", NOME : PAMELA RODRIGUES MEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.892.549-**", NOME : PATRICIA EMILIANA FRITZ INAGAKI LEIGUS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.739.229-**", NOME : PATRICIA MIRANDA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.276.659-**", NOME : PATRICIA PEREIRA DANIEL , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.675.519-**", NOME : PATRICIA ROCIO DE OLIVEIRA GODOI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.056.369-**", NOME : PATRICIA TELES MAYNARDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.090.409-**", NOME : PAULO ALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.426.909-**", NOME : PAULO CEZAR HISSASHI ONO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.205.019-**", NOME : PAULO EDUARDO GONCALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.842.549-**", NOME : PAULO FURQUIM DE CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.956.729-**", NOME : PAULO HENRIQUE SANTOS MAIA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.647.719-**", NOME : PAULO RICARDO DOS SANTOS SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.998.009-**", NOME : PAULO ROBERTO DIAS DA LUZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.189.209-**", NOME : PAULO SERGIO MOMETTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.847.719-**", NOME : PIETER VOORSLUYS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.646.069-**", NOME : RAFAEL LEMES DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.266.639-**", NOME : RAFAELA DE OLIVEIRA SANTOS FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.119.769-**", NOME : RAFAELA MISLAINE SIMAO FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.999.649-**", NOME : RAFAELA NUNES CHOAIRE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.680.779-**", NOME : RAIANE CATARINA JACOB DE OLIVEIRA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.057.439-**", NOME : RAIARA DA LUZ PEDRO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.206.559-**", NOME : RAMIRO GONCALVES BISPO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.311.589-**", NOME : RAMON APARECIDO GONCALVES BISPO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.489.729-**", NOME : RAYANE APARECIDA LEITE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.924.939-**", NOME : RAYANE DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.939.259-**", NOME : RAYANNA PIETROSKI CORREIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.843.779-**", NOME : RAYATH VICENTE LEITE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.403.219-**", NOME : REGIANE BATISTAO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.399.689-**", NOME : REGINA LORDELOS FERNANDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.264.149-**", NOME : REINALDO SOARES DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.270.719-**", NOME : RENAN WILLIAN DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.396.099-**", NOME : ROBERSON INOCENCIO MENDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.067.049-**", NOME : ROBERSON JOSE RODRIGUES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.253.589-**", NOME : ROBERT BATISTA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.887.389-**", NOME : ROBSON FERNANDO MULLER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.130.869-**", NOME : ROCHELE CARNEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.334.129-**", NOME : RODINEI EURIDES VICENTE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.309.589-**", NOME : RODRIGO PATRIC DE BRITO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.102.829-**", NOME : RONALD VINICIUS LUIZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.482.959-**", NOME : RONALDO APARECIDO SOARES RODRIGUES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.917.569-**", NOME : RONI MENDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.385.569-**", NOME : ROQUE PONCIANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.495.489-**", NOME : ROSA DE AZEVEDO COIMBRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.542.569-**", NOME : ROSANGELA  DE MEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.779.399-**", NOME : ROSE DE JESUS GUIMARAES DOS SANTOS , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.129.099-**", NOME : ROSELI MARIA MENDES BROCCA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.356.059-**", NOME : ROSELIA MARIA RIBEIRO PINHEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.301.459-**", NOME : ROSEMARI PRESTES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.464.729-**", NOME : ROSEMERI DE JESUS DO NASCIMENTO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.615.088-**", NOME : ROSENEIDE NAZARE DA COSTA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.937.059-**", NOME : ROSENI APARECIDA SILVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.174.489-**", NOME : ROSENILDA DE ALMEIDA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.120.999-**", NOME : ROSENILDA DO CARMO RODRIGUES DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.112.038-**", NOME : ROSILDA APARECIDA DA COSTA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.456.609-**", NOME : ROSILDA DE JESUS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.036.659-**", NOME : ROSILDA FERREIRA DA SILVA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.080.259-**", NOME : ROSILEIA CASSEMIRO GOMES , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.454.868-**", NOME : ROSILENE APARECIDA PONTES MACIEL , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.030.978-**", NOME : ROSMAR DE MELO SCHWICHTEMBERG , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.643.159-**", NOME : ROSNEIA MACHADO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.592.079-**", NOME : RUBIA SCHASKOS MENDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.849.049-**", NOME : RULIANA DE CAMARGO FOGACA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.672.419-**", NOME : RUTE DOMINGUES DE MATOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.516.089-**", NOME : SANDER JUNIOR BOMFIM GARCIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.802.529-**", NOME : SANDRA DE MORAIS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.325.289-**", NOME : SANDRA MARA APARECIDA FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.362.669-**", NOME : SANDRA MAZURCKEVITZ , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.163.868-**", NOME : SANDRA NAEDE SOARES DE ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.549.599-**", NOME : SANDRO GOMES MACHADO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.720.959-**", NOME : SANDRO JOSE ROLIM , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.157.999-**", NOME : SANTA TEREZINHA BATISTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.740.059-**", NOME : SAVIO JOSE ALMEIDA BARRETO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.889.649-**", NOME : SAYRA KAUANE VICENTE MOREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.172.809-**", NOME : SEBASTIAO LUIZ XAVIER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.502.529-**", NOME : SEBASTIAO REI DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.257.799-**", NOME : SELMA APARECIDA SARDINHA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.067.639-**", NOME : SERGIO AUGUSTO PONTES DE LIMA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.842.089-**", NOME : SERGIO DE JESUS SOARES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.335.289-**", NOME : SIBELE RIBEIRO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.102.609-**", NOME : SIDNEY APARECIDO PONCIANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.228.079-**", NOME : SILAS RIBEIRO FILHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.637.529-**", NOME : SILMARA INOCENCIA LOPES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.458.028-**", NOME : SILVANA APARECIDA DA LUZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.770.229-**", NOME : SILVANA MARLI DE FREITAS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.546.179-**", NOME : SILVANE APARECIDA CAMARGO DA SILVA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.477.859-**", NOME : SILVANO VICENTE ROCHA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.822.599-**", NOME : SILVIA FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.282.069-**", NOME : SILVIA ROCHA ALEIXO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.200.049-**", NOME : SIMONE LEONEL DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.004.599-**", NOME : SIMONE SOUZA ALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.784.629-**", NOME : SIRLEI APARECIDA SOARES BATISTA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.301.019-**", NOME : SIRLEI BATISTA CARNEIRO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.150.489-**", NOME : SIRLENE RODRIGUES DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.093.659-**", NOME : SOLANGE DE FATIMA BUNIOVSKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.891.839-**", NOME : SONIA MARA ALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.933.038-**", NOME : STEFANO SOARES DE CARVALHO MILLER , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.262.859-**", NOME : STEFANY HIALOE CORAIOLA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.795.899-**", NOME : SUELEN CAMILA PEDROSO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.264.179-**", NOME : SUELI DE FATIMA SAMPAIO GOMES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.627.279-**", NOME : SUELI PINTO MOREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.679.169-**", NOME : SUIANE CRISTINA FERREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.050.129-**", NOME : TACIELE CAROLINE DA SILVA ROCHA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.054.029-**", NOME : TAINARA AMANCIO DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.788.939-**", NOME : TAMIRIS GABRIEL MARIANO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.743.759-**", NOME : TATIANE CASSIA DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.384.309-**", NOME : TATIANE CRISTINA DE FREITAS , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.665.059-**", NOME : TATIANE EDICLEIA DE ARAUJO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.002.549-**", NOME : TATIANE FERNANDA DOS REIS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.406.759-**", NOME : TATIANE GESSICA TAVARES DE MOURA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.834.319-**", NOME : TATIANE KEREN DE CARVALHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.253.429-**", NOME : TATIANE VONEIS PEDROSO CORREIA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.231.089-**", NOME : TENILE BATISTA BISCAIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.223.919-**", NOME : TEREZA DE FATIMA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.325.129-**", NOME : TEREZINHA VIEIRA SIMAO DE LIMA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.032.089-**", NOME : THAIANY DE SOUZA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.091.119-**", NOME : THAISLAINE MICHALOSKI TOLENTINO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.586.049-**", NOME : THALLINY DE SOUZA , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.571.239-**", NOME : THAMIRES HORAYDE ALVES OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.337.599-**", NOME : THASSIANE ALMEIDA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.528.779-**", NOME : THAYS FERNANDA GRACIANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.269.599-**", NOME : TIAGO DANRLEI DE PAULA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.180.609-**", NOME : VALDECI VENANCIO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.715.889-**", NOME : VALDENIR CAMPOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.102.289-**", NOME : VALDENIR DE SOUZA SOBRINHO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.501.249-**", NOME : VALDIR LOURENCO DE PAULA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.493.619-**", NOME : VALDIRENE APARECIDA DA CUNHA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.371.729-**", NOME : VALDIRENE DE OLIVEIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.698.439-**", NOME : VALERIA DA SILVA DE ANDRADE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.791.348-**", NOME : VALERIA FERNANDA PACCOLA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.090.379-**", NOME : VALMIRA MARIA DACAL BUNIOVSKI , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.023.359-**", NOME : VALQUIRIA APARECIDA DE CASTRO ESTEVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.527.321-**", NOME : VANESSA APARECIDA DE MELO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.799.799-**", NOME : VANESSA DE OLIVEIRA MARTINS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.207.889-**", NOME : VANESSA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.097.628-**", NOME : VANESSA RODRIGUES DA CRUZ , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.523.139-**", NOME : VANIA ALVAREZ MAIA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.818.859-**", NOME : VANIA APARECIDA BATISTA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.854.049-**", NOME : VERA LUCIA DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.624.689-**", NOME : VERA LUCIA GONCALVES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.075.439-**", NOME : VERA LUCIA LEONARDO DACAL , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.495.909-**", NOME : VERA LUCIA SOARES DE SOUSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.458.329-**", NOME : VICTOR CHAOUICHE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.326.039-**", NOME : VINICIUS ALEXANDRE DE ALMEIDA E SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.776.229-**", NOME : VITORIA DE FATIMA CARNEIRO , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.770.459-**", NOME : VIVIANE APARECIDA BARBOSA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.830.819-**", NOME : WAGNER EMANUEL SANTOS RODRIGUES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.701.679-**", NOME : WALESKA DOS SANTOS RODOVANSKI , Parcela : "1", Valor : "1200
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.369.549-**", NOME : WELLINGTON DE ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.586.489-**", NOME : WELLINGTON DE OLIVEIRA PALHANO , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.504.499-**", NOME : WESLEI BATISTA DE SOUZA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.128.969-**", NOME : WESLEI CORDEIRO DOS SANTOS , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.958.529-**", NOME : WICTOR GABRIEL BARBOSA MOREIRA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.099.259-**", NOME : WILIAN GOMES CHAOUICHE , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.603.179-**", NOME : WILLIAM TOMAZ MENDES , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.620.479-**", NOME : WILLIAN DE ABREU , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.895.989-**", NOME : ZENILDA  DOS SANTOS ALMEIDA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.868.259-**", NOME : ZENILDA APARECIDA FERREIRA DA SILVA , Parcela : "1", Valor : "600
+ ------------------------------------------------
+CIDADE: "ARAPOTI", CPF : "***.725.189-**", NOME : ZILDA TEIXEIRA DE CAMARGO , Parcela : "1", Valor : "600
+ ------------------------------------------------
